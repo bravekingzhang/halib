@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="card_background">#ffffff</color>
+    <color name="card_shadow">#10000000</color>
+    <color name="lite_blue">#ff359ff2</color>
+    <color name="window_background">#00000000</color>
+    <dimen name="cube_activity_horizontal_margin">16dp</dimen>
+    <dimen name="cube_activity_vertical_margin">16dp</dimen>
+    <string name="cube_action_settings">Settings</string>
+</resources>
