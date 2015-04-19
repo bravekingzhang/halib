@@ -1,4 +1,4 @@
-# hlib
+# halib
 一个快速Android开发框架，主要包含了：
 
 1、Cube ImageLoader，异步图片加载，融合了UIL和square一些组件的优点的图片加载器【网络，异步图片加载】
