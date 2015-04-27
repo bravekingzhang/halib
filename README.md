@@ -42,5 +42,7 @@
 20、还有Trinea大神提供的一些公共的utils。【公共函数】
 
 #如何使用
+
 ###下载zip，解压到本地一个目录，在android sutido中直接将本项目作为库导入就OK了。
+
 ###eclipse 怎么办？什么，童鞋，你还在用elcipse 啊，对不起，我们不支持eclipse，自己想办法吧。
