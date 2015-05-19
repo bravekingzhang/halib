@@ -4,4 +4,5 @@
 
     <item type="id" name="expandable_text"/>
     <item type="id" name="expand_collapse"/>
+    <item name="fab_expand_menu_button" type="id"/>
 </resources>

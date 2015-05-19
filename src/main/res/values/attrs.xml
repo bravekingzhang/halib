@@ -115,4 +115,41 @@ limitations under the License.
         <attr name="state_highlighted" format="boolean" />
     </declare-styleable>
 
+    <declare-styleable name="UltimateRecyclerview">
+        <attr name="recyclerviewClipToPadding" format="boolean" />
+        <attr name="recyclerviewPadding" format="dimension" />
+        <attr name="recyclerviewPaddingTop" format="dimension" />
+        <attr name="recyclerviewPaddingBottom" format="dimension" />
+        <attr name="recyclerviewPaddingLeft" format="dimension" />
+        <attr name="recyclerviewPaddingRight" format="dimension" />
+        <attr name="recyclerviewEmptyView" format="reference" />
+        <attr name="recyclerviewFloatingActionView" format="reference" />
+        <attr name="recyclerviewScrollbars" format="enum">
+            <enum name="none" value="0" />
+            <enum name="vertical" value="1" />
+            <enum name="horizontal" value="2" />
+        </attr>
+        <attr name="recyclerviewDefaultSwipeColor" format="reference"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="AddFloatingActionButton">
+        <attr name="plusIconColor" format="color" />
+    </declare-styleable>
+    <declare-styleable name="FloatingActionsMenu">
+        <attr name="addButtonColorPressed" format="color" />
+        <attr name="addButtonColorNormal" format="color" />
+        <attr name="addButtonPlusIconColor" format="color" />
+        <attr name="addButtonIsHorizontal" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="FloatActionButton">
+        <attr name="colorPressed" format="color" />
+        <attr name="colorNormal" format="color" />
+        <attr name="icon" />
+        <attr name="size" format="enum">
+            <enum name="normal" value="0" />
+            <enum name="mini" value="1" />
+        </attr>
+    </declare-styleable>
+
 </resources>
