@@ -31,4 +31,6 @@
     <string name="xlistview_header_last_time">上次更新时间：</string>
     <string name="xlistview_footer_hint_normal">查看更多</string>
     <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="add_bus_line">添加bus线路</string>
+    <string name="about">关于</string>
 </resources>
