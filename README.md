@@ -1,3 +1,5 @@
+
+【deprecated】
 # halib
 一个快速Android开发框架，主要包含了：
 
